@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.乐高灯" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.乐高灯" parent="Base.Theme.乐高灯" />
+</resources>
